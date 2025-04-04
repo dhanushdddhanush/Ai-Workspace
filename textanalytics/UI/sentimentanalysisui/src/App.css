@@ -1,0 +1,58 @@
+
+.header {
+  width: 100%;
+  padding: 20px;
+  background: #000000;
+  color: white;
+  text-align: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  
+}
+
+.container {
+  max-width: 1200px;
+  margin: 80px auto; 
+  padding: 20px;
+  text-align: center;
+  margin-right:50px;
+  margin-top:190px
+}
+.aligns{
+  text-align: center  ;
+}
+.form {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  background: #f8f9fa;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  margin-left: 450px;
+  margin-top: 30px;
+}
+
+
+.form input , input[type="search"]{
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+
+.form button {
+  width: 100%;
+  padding: 10px;
+  background: #000000;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  
+}
+

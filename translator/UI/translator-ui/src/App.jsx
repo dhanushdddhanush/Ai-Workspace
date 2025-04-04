@@ -31,7 +31,7 @@ const translator=()=>{
       alert("Failed to translate.");
     }
   };
-  console.log( lang)
+
     return(
        <>
 

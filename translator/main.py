@@ -62,3 +62,4 @@ def get_supported_languages():
     
     
     return {"supported_languages": result}
+    # changed my server to this: uvicorn filename:app --reload-8089
