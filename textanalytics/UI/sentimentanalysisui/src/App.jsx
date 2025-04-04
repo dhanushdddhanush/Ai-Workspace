@@ -34,7 +34,7 @@ function App() {
     <>
       <div className="conatiner">
         <div className="header">
-          <h1>Sentiment Analysis</h1>
+          Sentiment Analysis
         </div>
 
         <div className="form">
